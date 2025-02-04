@@ -1,0 +1,15 @@
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\bin\Debug\net9.0\Modulo3.exe
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\bin\Debug\net9.0\Modulo3.deps.json
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\bin\Debug\net9.0\Modulo3.runtimeconfig.json
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\bin\Debug\net9.0\Modulo3.dll
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\bin\Debug\net9.0\Modulo3.pdb
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\obj\Debug\net9.0\Modulo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\obj\Debug\net9.0\Modulo3.AssemblyInfoInputs.cache
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\obj\Debug\net9.0\Modulo3.AssemblyInfo.cs
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\obj\Debug\net9.0\Modulo3.csproj.CoreCompileInputs.cache
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\obj\Debug\net9.0\Modulo3.sourcelink.json
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\obj\Debug\net9.0\Modulo3.dll
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\obj\Debug\net9.0\refint\Modulo3.dll
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\obj\Debug\net9.0\Modulo3.pdb
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\obj\Debug\net9.0\Modulo3.genruntimeconfig.cache
+C:\Users\thealth\Documents\Exercícios POO\ScreenSound-API\Modulo3\obj\Debug\net9.0\ref\Modulo3.dll
