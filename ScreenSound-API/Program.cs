@@ -12,7 +12,16 @@ using (HttpClient client = new HttpClient())
         //LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
         //LinqOrder.ExibirListasDeArtistasOrdenados(musicas);
         //LinqFilter.FiltrarArtistasPorGeneroMusical(musicas, "pop");
-        LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Michel Teló");
+        //LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Michel Teló");
+        
+        var musicasPreferidasDoLeandro = new MusicasPreferidas("Leandro");
+        musicasPreferidasDoLeandro.AdicionarMusicasFavoritas(musicas[1]);
+        musicasPreferidasDoLeandro.AdicionarMusicasFavoritas(musicas[377]);
+        musicasPreferidasDoLeandro.AdicionarMusicasFavoritas(musicas[4]);
+        musicasPreferidasDoLeandro.AdicionarMusicasFavoritas(musicas[6]);
+        musicasPreferidasDoLeandro.AdicionarMusicasFavoritas(musicas[1467]);
+        
+        musicasPreferidasDoLeandro.ExibirMusicasFavoritas();
     }
     catch (Exception ex) 
     {
